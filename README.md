@@ -1,4 +1,3 @@
-# Advanced-RAG-Series
 This repository hosts an advanced LLM-based chatbot for Retrieval Augmented Generation (RAG) and Q&A interactions with various databases such as VectorDB, GraphDB, SQLite, CSV, XLSX, and more. 
 
 ## General structure of the projects:
